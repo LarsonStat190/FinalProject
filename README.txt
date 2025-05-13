@@ -35,3 +35,7 @@ Bidwell cluster percentages by year.R
 This file takes in the whole data file and was looking at the differences of cluster population over time. As part of limitations that our group experienced, we only looked at two years of data. This was to fill in the gaps in the data between the two years when looking at similar clusters.
 
 
+Key Take aways:
+-Analyzing Clusters is weird and hard
+-Clustering takes an a lot of resources to run when n > 10,000
+
